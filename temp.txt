@@ -1,0 +1,4 @@
+font-family: 'Merriweather', serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Nanum Pen Script', cursive;
+font-family: 'Ubuntu', sans-serif;
