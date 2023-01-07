@@ -24,15 +24,15 @@ nav ul li{
     width: 100px;
 }
 .container{
-    min-height: 58vh;
+    min-height: 60vh;
     background-color: black;
     color: white;
     font-family: 'Merriweather Sans', sans-serif;
     display: flex;
     margin: 33px auto;
-    width: 70%;
+    width: 80%;
     border-radius: 12px;
-    padding: 34px;
+    padding: 24px;
     background-image: url(https://wallpaperaccess.com/full/1288325.jpg);
 }
 .bottom{
