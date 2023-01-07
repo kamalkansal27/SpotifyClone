@@ -58,14 +58,21 @@ nav ul li{
     cursor: pointer;
 }
 
+.songList{
+    width: 90%;
+}
 
 .songItem{
     height: 50px;
     display: flex;
     width: 100%;
     margin: 14px;
+    padding: 5px 35px;
     justify-content: space-between;
     align-items: center;
+}
+.songItembackground{
+    background-color: green;
 }
 .songItem img{
     width: 90px;
